@@ -92,6 +92,10 @@ class banco {
     }
 
 
+    //IMPORTANTE: He listado las cuentas en una tabla, por que la imagen de ejemplo de la tarea que está en la plataforma no me aparecía, 
+    //solo se veía el icono de imagen, pero no la imagen.
+
+
 //(9) Eliminar cuenta: Recibe como parámetro el código de cuenta y la elimina. Mostrará error si la cuenta no existe o si no tiene saldo 0, indicando cada caso. 
     //Creamos el método, que recibe el objeto que representa al bancop:
     listarCuentas(banco1) {

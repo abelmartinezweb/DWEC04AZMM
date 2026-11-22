@@ -139,7 +139,7 @@ class banco {
 }
 
 //CREAMOS EL OBJETO QUE REPRESENTA AL BANCO:
-let banco1 = new banco("Banco de España");
+let banco1 = new banco("Banco de ejemplo");
 
 //Lo mostramos por consola para ver como es el objeto y que contiene:
 console.log(banco1);
